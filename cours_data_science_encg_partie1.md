@@ -1,10 +1,11 @@
 # COURS DE SCIENCE DES DONNÉES
 
-# A. Larhlimi
+# ACHRAF MOHAMED BOURI
 
 
 
-<img src="image1.jpg" style="height:264px;margin-right:232px"/>
+<img width="1179" height="2096" alt="image" src="https://github.com/user-attachments/assets/617ead28-d7bf-45d8-8903-4befda8e4222" />
+
 
 
 ## École Nationale de Commerce et de Gestion (ENCG) - 
